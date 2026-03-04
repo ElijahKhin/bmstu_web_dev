@@ -1,6 +1,6 @@
-**author: Shchekochikhin Ilya**
-tg: @elijah_khin
-email: shchiekochikhin_ia@magnit.ru
+author: Shchekochikhin Ilya 
+tg: @elijah_khin 
+email: shchiekochikhin_ia@magnit.ru 
 
 
 ## Лабораторная работа №1
