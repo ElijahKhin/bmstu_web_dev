@@ -1,8 +1,3 @@
-author: Shchekochikhin Ilya 
-tg: @elijah_khin 
-email: shchiekochikhin_ia@magnit.ru 
-
-
 ## Лабораторная работа №1
 
 ## Разработка интернет-приложений
@@ -37,4 +32,4 @@ email: shchiekochikhin_ia@magnit.ru
 * Используются **3 GET маршрута** для отображения страниц приложения.
 * Данные хранятся в памяти приложения (коллекция категорий и словарь заявки).
 * Изображения и видео загружаются из **MinIO**.
- bmstu_web_dev
+
