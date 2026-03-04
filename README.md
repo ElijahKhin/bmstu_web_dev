@@ -2,6 +2,7 @@
 tg: @elijah_khin
 email: shchiekochikhin_ia@magnit.ru
 
+
 ## Лабораторная работа №1
 
 ## Разработка интернет-приложений
